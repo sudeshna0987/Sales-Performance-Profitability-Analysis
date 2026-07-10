@@ -3,6 +3,22 @@
 ## Project Overview
 This project analyzes sales, profit, and customer purchasing patterns using Power BI and Python. The dashboard provides business insights through interactive visualizations and DAX measures.
 
+## Project Architecture
+
+Dataset (CSV)
+        ↓
+Data Cleaning (Python)
+        ↓
+Data Transformation (Power Query)
+        ↓
+Data Modeling (Power BI)
+        ↓
+DAX Measures
+        ↓
+Interactive Dashboard
+        ↓
+Business Insights
+
 ## Tools Used
 - Power BI
 - Python
