@@ -5,19 +5,27 @@ This project analyzes sales, profit, and customer purchasing patterns using Powe
 
 ## Project Architecture
 
+```text
 Dataset (CSV)
-        ↓
+    │
+    ▼
 Data Cleaning (Python)
-        ↓
+    │
+    ▼
 Data Transformation (Power Query)
-        ↓
+    │
+    ▼
 Data Modeling (Power BI)
-        ↓
+    │
+    ▼
 DAX Measures
-        ↓
+    │
+    ▼
 Interactive Dashboard
-        ↓
+    │
+    ▼
 Business Insights
+```
 
 ## Tools Used
 - Power BI
